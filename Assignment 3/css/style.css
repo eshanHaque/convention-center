@@ -1,0 +1,34 @@
+.list-style{
+    list-style: none;
+}
+.txt-cstm {
+    color: #231D4F;
+    ;
+}
+.lst-cstm {
+    color: #848199;
+}
+.item-selected {
+    color: #ffffff;
+    height: 438px;
+    width: 290px;
+    background-color: #3F87F5;
+   
+}
+.book-button{
+    background-color: #ffffff;
+}
+.button-color{
+    background-color: #f8d5eb;
+}
+
+.button-txt-color{
+    color:#3F87F5;
+}
+.footer-color {
+    background-color: #0B0D17;
+
+}
+.footer-txt {
+    color: #ffffff;
+}
